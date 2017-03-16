@@ -1,2 +1,4 @@
 # todo-ios
-SImple TODO list app in iOS with Swift
+Simple TODO list app in iOS with Swift
+
+The backend is [here](https://github.com/sigit-prayoga/go-todo)
